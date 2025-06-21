@@ -1,0 +1,5 @@
+Project: Credit Card Fraud Detection using AutoEncoder
+Libraries used: pandas, numpy, matplotlib, seaborn, scikit-learn, pyod
+Dataset: creditcard.csv from Kaggle
+IDE: Visual Studio Code / JupyterLab
+Output files: fraud_detection_autoencoder.py, reconstruction_error.png, output_screenshot.png
