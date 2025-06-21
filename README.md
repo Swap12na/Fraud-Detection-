@@ -79,9 +79,5 @@ Course: Advance Artificial Intelligence
 
 ---
 
-### ✅ What You Should Do Now:
-1. Replace all placeholders like `[Your Full Name]`, `[Course Title]`, `[Insert your repository URL here]`, etc.
-2. Save the file as `README.md`.
-3. Upload it to your GitHub repo root folder.
 
 
